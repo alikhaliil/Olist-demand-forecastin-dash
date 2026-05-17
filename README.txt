@@ -3,7 +3,7 @@
 An enterprise-grade forecasting dashboard designed to help e-commerce managers minimize stockouts and optimize inventory turnover. Built using the **Olist Brazilian E-commerce dataset**.
 
 ## 🚀 Live Demo
-[LINK TO YOUR STREAMLIT APP HERE]
+[https://olist-demand-forecastin-dash.streamlit.app/]
 
 ## 🛠️ The Challenge
 Managing inventory for a large-scale marketplace is complex. Overstocking leads to tied-up capital, while stockouts lead to lost revenue. This project provides a **Decision Support System (DSS)** to automate reorder points based on machine learning predictions.
